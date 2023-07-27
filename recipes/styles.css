@@ -1,0 +1,21 @@
+* {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading {
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 72px;
+    font-weight: bold;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: bold;
+}
